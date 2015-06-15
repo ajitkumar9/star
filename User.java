@@ -25,6 +25,8 @@ class D1
 		System.out.println("enter the user");
 		String u=in.readLine();
 		System.out.println("enter look pass");
+		System.out.println("ajitkumar");
+		
 		String p=in.readLine();
 
 		ps.setString(1,u);
